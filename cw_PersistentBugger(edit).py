@@ -1,3 +1,4 @@
+#plan
 # turn the number into a string
 # split the numbers' digits into a list
 
